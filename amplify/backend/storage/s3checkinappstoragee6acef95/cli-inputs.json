@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3checkinappstoragee6acef95",
+  "bucketName": "checkinapp-storage-e6acef95",
+  "policyUUID": "aae8a68d",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
