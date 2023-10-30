@@ -16,7 +16,7 @@ import Image from 'next/image'
 import { GetServerSideProps } from 'next'
 import styles from '../styles/Home.module.css'
 // Place this at the top of your entry file, e.g., _app.js or index.js
-global.Headers = global.Headers || require('node-fetch').Headers;
+// global.Headers = global.Headers || require('node-fetch').Headers;
 
 Amplify.configure({ ...awsExports, ssr: true })
 
