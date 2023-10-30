@@ -1,3 +1,9 @@
+# Check In App
+
+App for daily and weekly check ins.
+
+Under construction
+
 # AWS Amplify and TypeScript with Next.js
 
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/vercel/next.js/tree/canary/examples/with-aws-amplify)
