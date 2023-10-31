@@ -17,6 +17,9 @@
       },
       "auth": {
         "checkinappddb96903": {}
+      },
+      "storage": {
+        "s3checkinappstoragee6acef95": {}
       }
     }
   }
